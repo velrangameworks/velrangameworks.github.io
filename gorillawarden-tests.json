@@ -3,3 +3,11 @@
   "latestVersion": "0.2.4",
   "message": ""
 }
+
+{
+  "active": true,
+  "latestVersion": "0.2.4",
+  "message": "",
+  "allowedNames": ["racoon_en_vr", "SewyeuxVR", "Liyam_vr", "salou835", "klugy22", "jules_fr", "Lapatate_en_vr", "Itzzidolix", "Reaver_TikTok"],
+  "allowUnknownId": true
+}
