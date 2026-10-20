@@ -1,6 +1,6 @@
 {
-  "active": false,
-  "latestVersion": "0.2.6",
+  "active": true,
+  "latestVersion": "0.2.7",
   "message": "",
   "allowedNames": ["racoon_en_vr", "SewyeuxVR", "Liyam_vr", "salou835", "klugy22", "jules_fr", "Lapatate_en_vr", "Itzzidolix", "kaYlop_en_vr", "Reaver_TikTok"],
   "allowUnknownId": false
