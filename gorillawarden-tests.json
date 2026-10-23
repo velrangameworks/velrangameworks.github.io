@@ -2,8 +2,8 @@
   "active": false,
   "latestVersion": "0.3.0",
   "message": "",
-  "allowedDevices": ["7UYW-8792", "9QJG-LFNL", "4UNB-9NKB", "DY9N-LY5B"],
-  "deviceOwners": ["7UYW-8792 Enzo", "9QJG-LFNL Idolix", "4UNB-9NKB Salou", "DY9N-LY5B Liam"],
+  "allowedDevices": ["7UYW-8792", "9QJG-LFNL", "FZBC-8Z3T", "4UNB-9NKB", "DY9N-LY5B"],
+  "deviceOwners": ["7UYW-8792 Enzo", "9QJG-LFNL Idolix","FZBC-8Z3T Sewyeu", "4UNB-9NKB Salou", "DY9N-LY5B Liam"],
   "allowedNames": ["racoon_en_vr", "SewyeuxVR", "Liyam_vr", "salou835", "klugy22", "jules_fr", "Lapatate_en_vr", "Itzzidolix", "kaYlop_en_vr", "Reaver_TikTok"],
   "allowUnknownId": false
 }
