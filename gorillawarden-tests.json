@@ -1,6 +1,6 @@
 {
-  "active": false,
-  "latestVersion": "0.3.2",
+  "active": true,
+  "latestVersion": "0.3.3",
   "message": "",
   "allowedDevices": ["7UYW-8792", "9QJG-LFNL", "FZBC-8Z3T", "4UNB-9NKB", "DY9N-LY5B", "8LBT-B45K"],
   "deviceOwners": ["7UYW-8792 Enzo", "9QJG-LFNL Idolix","FZBC-8Z3T Sewyeu", "4UNB-9NKB Salou", "DY9N-LY5B Liam", "8LBT-B45K Coucoune"],
