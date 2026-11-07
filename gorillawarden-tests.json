@@ -2,7 +2,7 @@
   "active": true,
   "latestVersion": "0.4.4",
   "message": "",
-  "allowedDevices": ["FZBC-8Z3T", "DY9N-LY5B",  "EWJB-C69E","ZKRG-TQND", "8LBT-B45K"],
+  "allowedDevices": ["FZBC-8Z3T", "DY9N-LY5B",  "EWJB-C69E",  "ZKRG-TQND",  "8LBT-B45K"],
   "deviceOwners": ["7UYW-8792 Enzo", "9QJG-LFNL Idolix","FZBC-8Z3T Sewyeu", "4UNB-9NKB Salou", "DY9N-LY5B Liam",  "EWJB-C69E Jules","ZKRG-TQND Kiwi", "8LBT-B45K Coucoune"],
   "allowedNames": ["", "", "", "", "", "", "", "", "", ""],
   "allowUnknownId": false
