@@ -1,6 +1,6 @@
 {
-  "active": false,
-  "latestVersion": "0.4.9",
+  "active": true,
+  "latestVersion": "0.5.0",
   "message": "",
   "allowedDevices": ["FZBC-8Z3T", "DY9N-LY5B",  "EWJB-C69E",  "ZKRG-TQND",  "8LBT-B45K",  "9BWN-GBV9",  "QLLZ-UY6A",  "BBE4-LQMJ"],
   "deviceOwners": ["7UYW-8792 Enzo", "9QJG-LFNL Idolix","FZBC-8Z3T Sewyeu", "4UNB-9NKB Salou", "DY9N-LY5B Liam",  "EWJB-C69E Jules","ZKRG-TQND Kiwi", "8LBT-B45K Coucoune",  "9BWN-GBV9 Reaver",  "QLLZ-UY6A Nodri",  "BBE4-LQMJ Petite Grenouille"],
